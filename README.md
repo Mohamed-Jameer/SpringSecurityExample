@@ -1,4 +1,4 @@
-# Spring Security Example
+# Spring Security Exampl
 
 ## Overview
 This project demonstrates how to implement **Spring Security** in a Spring Boot application. It covers authentication, authorization, JWT-based security, and role-based access control.
